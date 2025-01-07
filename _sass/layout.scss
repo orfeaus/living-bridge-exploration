@@ -5,10 +5,12 @@
 	position: relative;
 	padding: 50px 30px;
 	box-sizing: border-box;
+	background-color: #faf4e3;
 }
 
 header {
 	padding-bottom: 50px;
+	background-color: #faf4e3;
 
 	@media #{$desktop} {
 		.container {
